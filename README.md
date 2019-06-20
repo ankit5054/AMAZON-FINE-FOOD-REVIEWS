@@ -33,3 +33,20 @@ Data includes:
 ![download1](https://user-images.githubusercontent.com/39160589/59823825-0ceaf380-934d-11e9-99c0-40a27b450c49.jpg)
  ### SENTIMENTAL ANALYSIS 
  To predict whether the given review is positive or negative .i.e., 1 or 0
+## FEATURIZATION
+In this we are applying the techniques like 
+- BAG OF WORDS(BOW)
+- Term Frequency–Inverse Document Frequency(TF-IDF)
+- WORD2VEC (W2V)
+- TF-IDF WORD2VEC(TFIDF W2V)
+
+## ALGORITHMS APPLIED TO PREDICT.
+
+### - KNN
+### - Naive Bayes
+### - Logistic Regression
+### - Support Vector Machine
+### - Decision Tree
+### - XGBoost and RandomForest
+### - K-means, Agglomerative, DBSCAN Clustering
+### - Truncated SVD
